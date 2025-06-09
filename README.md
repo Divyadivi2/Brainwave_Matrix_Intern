@@ -29,5 +29,8 @@ The model prints:
 - Classification Report
 
 ---
+## 📂 Dataset
 
-> ✅ Completed for Brainwave Matrix Internship Task.
+Due to file size limits on GitHub, the dataset is hosted externally:  
+🔗 [Download Dataset from Google Drive](https://drive.google.com/drive/folders/1XK-Db5cRD3GbH4iYxVZLp8Z0x61R3vXt?usp=sharing)
+
