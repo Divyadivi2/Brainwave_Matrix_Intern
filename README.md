@@ -39,4 +39,5 @@ Due to file size limits on GitHub, the dataset is hosted externally:
 
 Here is the sample output of the model showing the confusion matrix and accuracy.
 
-("C:\Users\Jagannadha Gupta\Downloads\fake_news_output.png")
+![fake_news_output](https://github.com/user-attachments/assets/5bdce2c9-1c2b-475a-9f03-90a089d07f32)
+
