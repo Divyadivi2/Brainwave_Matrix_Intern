@@ -34,3 +34,9 @@ The model prints:
 Due to file size limits on GitHub, the dataset is hosted externally:  
 🔗 [Download Dataset from Google Drive](https://drive.google.com/drive/folders/1XK-Db5cRD3GbH4iYxVZLp8Z0x61R3vXt?usp=sharing)
 
+
+## 🖼 Output Screenshot
+
+Here is the sample output of the model showing the confusion matrix and accuracy.
+
+("C:\Users\Jagannadha Gupta\Downloads\fake_news_output.png")
